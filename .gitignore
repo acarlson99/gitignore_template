@@ -56,6 +56,9 @@ dkms.conf
 ._.DS_STORE
 ._*
 
+# NFS junk
+.nfs.*
+
 # Python stuff
 __pycache__/
 
