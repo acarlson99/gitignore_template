@@ -64,8 +64,10 @@ __pycache__/
 
 # CLion
 .idea/
-CMakeLists.txt
-cmake-build-*/
 
 # VSCode
 .vscode/*
+
+# tags
+tags
+TAGS
