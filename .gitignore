@@ -71,3 +71,6 @@ __pycache__/
 # tags
 tags
 TAGS
+
+# Golang
+!go.mod
