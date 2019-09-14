@@ -62,7 +62,7 @@ dkms.conf
 # Python stuff
 __pycache__/
 
-# CLion
+# CLion etc.
 .idea/
 
 # VSCode
@@ -72,5 +72,11 @@ __pycache__/
 tags
 TAGS
 
-# Golang
+# Keep golang modules
 !go.mod
+
+# Emacs/Vim
+*.swp
+.*.swp
+*~
+.*~
